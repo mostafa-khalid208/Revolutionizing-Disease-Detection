@@ -1,1 +1,1 @@
-![My App Screenshot](https://user-images.githubusercontent.com/12345678/123456789-abcd1234.png)
+![Screenshot](https://github.com/user-attachments/assets/2071ecf1-df73-4d2e-9635-fcf1fa9d0d4e)
